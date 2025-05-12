@@ -8,5 +8,6 @@ W grze możemy włączyć i wyłączyć zarówno muzykę oraz dźwięki. Posiada
 ## Pliki
 Gra.py - cały kod zawierjący i włączający grę.
 button.py - plik, gdzie została zaimplementowana klasa guzika.
+wyniki.txt - plik, zawierający najlepsze wyniki.
 Wszystkie pliki z rozszerzeniem ".png" to grafiki, które są zawarte w grze.
 Wszystkie pliki z rozszerzeniem ".ogg" to dźwięki, które są zawarte w grze.
